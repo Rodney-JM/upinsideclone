@@ -1,0 +1,16 @@
+:root{
+    /* Section 1 */
+
+    --bg-color-gradient-1: rgba(0, 0, 0, 0.874);
+    --bg-color-gradient-2: #121212d0;
+    --border-color-image: #a5934061;
+    --bg-color-gradient-button-1: #f2c50f;
+    --bg-color-gradient-button-2: #f2295b;
+    --bg-color-text-1: #f2ab38;
+    --text-color-secundary: #9e9e9e;
+    
+
+    /* Section 2 */
+    --bg-color-section-2: #141414;
+    --bg-icons-color: #f2ab38;
+}
