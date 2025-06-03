@@ -1,0 +1,49 @@
+@import url(colors);
+
+.sec_2{
+    width: 100%;
+    height: 30vh;
+
+    background-color: var(--bg-color-section-2);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3%;
+}
+
+.block{
+    width: 24%;
+
+    text-align: center;
+    color: white;
+    font-family: "Figtree", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    gap: .9em;
+}
+
+.block_text{
+    font-size: 1.2em;
+    font-weight: 900;
+    margin-top: .3em;
+}
+
+.block_p{
+    color: var(--text-color-secundary);
+    font-weight: 500;
+    font-family: "Questrial", sans-serif;
+    line-height: 1.5em;
+}
+
+.block .fa-solid{
+    font-size: 1.6em;
+    font-weight: 900;
+}
+
+.block .fa-award{
+    font-size: 1.8em;
+}
